@@ -11,8 +11,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Flutter Tugas 1",
       // home: TampilanCard(),
-      home: TampilanGridView(),
-      // home: TampilanListView(),
+      // home: TampilanGridView(),
+      home: TampilanListView(),
     );
   }
 }
