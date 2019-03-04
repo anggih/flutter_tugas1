@@ -10,9 +10,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: "Flutter Tugas 1",
-      //home: TampilanMaster(),
-      home: TampilanCard(),
-      // home: TampilanGridView(),
+      // home: TampilanCard(),
+      home: TampilanGridView(),
       // home: TampilanListView(),
     );
   }
