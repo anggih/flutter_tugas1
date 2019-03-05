@@ -1,16 +1,21 @@
 # flutter_1
 
-A new Flutter project.
+Tugas 1:
+Implemnentasi Widget Card
+Implemnentasi Widget ListView
+Implemnentasi Widget GridView
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Keterangan
+ 
+file di dikirim dalam 4 banch:
+1. Master
+2. Widget_Card
+3. Widget_ListView
+4. Widdet_GridView
 
-A few resources to get you started if this is your first Flutter project:
+Branch Master: Tampilan dari semua contoh widget Card,List,Grid yang di gabungkan dengan tab menu.
+Branch Widget_Card: Tampilan dari widget card
+Branch Widget_ListView: Tampilan dari widget ListView
+Branch Widget_GridView: Tampilan dari widget GridView
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
